@@ -60,3 +60,4 @@
   { "city" : "El Paso",           "mascot" : "Chihuahuas",      "short" : "ELP", 	"homeText" : "FFFFFF",	"homeMain" : "005C5C",	"homeSecondary" : "0C2C56",	"awayText" : "005C5C",	"awayMain" : "C4CED3", "awaySecondary" : "0C2C56",  "logoURL" :  "https://github.com/C4pit4no/ubbgm_test_team_file/raw/main/53.png"},
   { "city" : "Reno",           "mascot" : "Aces",        "short" : "RNO", 	"homeText" : "FFFFFF",	"homeMain" : "BA0021",	"homeSecondary" : "003263",	"awayText" : "BA0021",	"awayMain" : "C4CED3", "awaySecondary" : "003263",  "logoURL" :  "https://github.com/C4pit4no/ubbgm_test_team_file/raw/main/54.png"},
   { "city" : "Albuquerque",  "mascot" : "Isotopes",  	    "short" : "ALB" ,	"homeText" : "FFFFFF",	"homeMain" : "C0111F",	"homeSecondary" : "003278",	"awayText" : "C0111F",  "awayMain" : "C4CED3", "awaySecondary" : "003278",  "logoURL" :  "https://github.com/C4pit4no/ubbgm_test_team_file/raw/main/55.png"}
+  ]
